@@ -205,7 +205,7 @@ When using detached AAD, the sender and receiver MUST follow the same derivation
 
 6. Error Handling
 
-   - If the derived AAD does not match the expected value during decryption, the JWE MUST be treated as invalid, and the decryption process MUST fail. 
+   - If the derived AAD does not match the expected value during decryption, the JWE MUST be treated as invalid, and the decryption process MUST fail.
 
 # Security Considerations
 
